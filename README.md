@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hey there, I'm Shak
 
-<!--
-**mechakdotdev/mechakdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  👨‍🚀 About Me
+- 💻 I'm a Computer Science Graduate
+- 🦾 My highlights are my software engineering skills (C#) and web development (HTML&CSS3, JavaScript).
+<!-- Actual text -->
 
-Here are some ideas to get you started:
+You can connect with me on [[Instagram]][1], or [[LinkedIn]][2].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png
+[2.2]: https://i.imgur.com/a/VdoATxx.png
+
+<!-- Links to your social media accounts -->
+
+[1]: https://instagram.com/gradngneer/
+[2]: https://www.linkedin.com/in/mechak-holondo/
+
+### 🛠️ Tech Stack
+
+
+### GitHub Analytics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechakdotdev&count_private=true&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/mechakdotdev/mechak-grad-portfolio)
+
+### My Highlighted Projects (more coming soon)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mechakdotdev&repo=soundcore-landing-page" />
+</a>
