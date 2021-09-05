@@ -28,7 +28,7 @@ Developer dev = new Developer(Shak);
 ## 📊 GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechakdotdev&count_private=true&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/mechakdotdev/mechak-grad-portfolio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechakdotdev&layout=compact)](https://github.com/mechakdotdev/mechak-grad-portfolio)
 
 
 ## 🌟 My Highlighted Projects (more coming soon)
