@@ -24,4 +24,5 @@ A couple of my interests:
 
 ## 📧 Contact Me
 Check out my LinkedIn for my professional career or for my personal journey as a coder head over to my Instagram (which is a work in progress). <br><br>
-[![Social Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mechak-holondo/) ![![Instagram](https://img.shields.io/badge/shakdotdev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shakdotdev/) <br>
+[![Social Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mechak-holondo/) 
+[![Instagram](https://img.shields.io/badge/shakdotdev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shakdotdev/) <br>
