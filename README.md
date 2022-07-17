@@ -12,6 +12,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechakdotdev&count_private=true&show_icons=true&theme=onedark)
 <br>
 I'm Junior Software Developer triyng to put all my projects together in one place to show where I've been, where I'm at and where I'm headed as far as coding is concerned. Currently I'm developing in .NET with C# where I'm working, but outside of work I like to try out projects in new languages and frameworks, as well as improve my own knowledge with mini projects.
+I primarily do my develop on Manjaro Linux (an Arch-based distribution) running a KDE desktop environment, using Visual Studio Code as my text editor.
 <br><br>
 
 ## 📧 Contact Me
