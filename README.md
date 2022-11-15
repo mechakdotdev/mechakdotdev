@@ -3,8 +3,8 @@
 ## 🦦 About Me
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechakdotdev&count_private=true&show_icons=true&theme=onedark)
 <br>
-**I primarily do my programming on Manjaro Linux, using Visual Studio Code as my text editor.
-<br>Any issues I run into when setting up my dev environment, I try document the solutions using [my Github gists](https://gist.github.com/mechakdotdev)**
+I primarily do my programming on Manjaro Linux, using Visual Studio Code as my text editor.
+<br>Any issues I run into when setting up my dev environment, I try document the solutions using [my Github gists](https://gist.github.com/mechakdotdev)
 <br><br>
 
 ## 📧 Contact Me
