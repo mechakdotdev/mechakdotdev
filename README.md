@@ -1,8 +1,3 @@
-## 🦦 About
-I mostly do my programming on Linux, using Visual Studio Code as my text editor and whatever JetBrains IDE fits the language (currently Rider). My experience is mainly with backend development with .NET Core and C# as well as Java. On the front-end I am trying to get better with React.js
-<br>Any issues I run into when setting up my dev environment in Linux, I try document the solutions using [my Github gists](https://gist.github.com/mechakdotdev)
-<br><br>
-
 ## 📧 Socials
 LinkedIn for something professional and Instagram for my tech enthusiast stuff.
 <br><br>
